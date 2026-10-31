@@ -6,9 +6,9 @@ FIAP · Challenge 2026 (SoulUp) · Domain Driven Design Using Java · Sprint 4 �
 
 | Item | Link |
 |---|---|
-| API publicada (Render) | `https://<preencher-apos-deploy>.onrender.com` |
-| Verificação de saúde | `https://<preencher-apos-deploy>.onrender.com/health` |
-| Repositório GitHub | `<preencher>` |
+| API publicada (Render) | https://ecoscoreengine-api.onrender.com |
+| Verificação de saúde | https://ecoscoreengine-api.onrender.com/health |
+| Repositório GitHub | https://github.com/Leonardo-2112/EcoScoreEngine-API |
 | Front-end (Vercel) | `<preencher>` |
 
 ## Conteúdo do repositório (entrega da Sprint 4)
